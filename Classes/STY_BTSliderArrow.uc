@@ -1,0 +1,30 @@
+class STY_BTSliderArrow extends STY2RoundButton;
+
+defaultproperties
+{
+	KeyName="BTSliderArrow"
+	ImgColors(0)=(B=88,G=88,R=88)
+	ImgColors(1)=(B=195,G=195,R=195)
+	ImgColors(2)=(B=195,G=195,R=195)
+	ImgColors(3)=(B=88,G=88,R=88)
+	Images(0)=Texture'fpsGame.mats.sl_arrow'
+	Images(1)=Texture'fpsGame.mats.sl_arrow'
+	Images(2)=Texture'fpsGame.mats.sl_arrow'
+	Images(3)=Texture'fpsGame.mats.sl_arrow'
+	Images(4)=None
+	ImgStyle(0)=ISTY_Stretched
+	ImgStyle(1)=ISTY_Stretched
+	ImgStyle(2)=ISTY_Stretched
+	ImgStyle(3)=ISTY_Stretched
+	ImgStyle(4)=ISTY_Stretched
+	ImgWidths(0)=32.000000
+	ImgWidths(1)=32.000000
+	ImgWidths(2)=32.000000
+	ImgWidths(3)=32.000000
+	ImgWidths(4)=32.000000
+	ImgHeights(0)=32.000000
+	ImgHeights(1)=32.000000
+	ImgHeights(2)=32.000000
+	ImgHeights(3)=32.000000
+	ImgHeights(4)=32.000000
+}
